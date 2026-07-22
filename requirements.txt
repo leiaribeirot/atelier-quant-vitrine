@@ -1,0 +1,7 @@
+# Núcleo do motor de validação
+freqtrade>=2024.1
+pandas>=2.0
+numpy>=1.24
+
+# TA-Lib (indicadores) — requer a lib nativa instalada no sistema
+TA-Lib>=0.4.28
